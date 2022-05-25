@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-04-05T16:45:28Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SCH-AB01-007-001"
+        },
+        "Owner": "Andrew Hill <andy@openacousticdevices.info>",
+        "Size": {
+            "X": 65.009422,
+            "Y": 56.5
+        }
+    }
+}
